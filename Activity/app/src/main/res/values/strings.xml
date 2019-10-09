@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">activity_duos</string>
+
+    <!-- Title of second activity -->
+    <string name="activity2_name">Second Activity</string>
+
+    <!-- Message header text (in second activity) [CHAR LIMIT=30]-->
+    <string name="text_header">diterima sama ibunya</string>
+
+    <!-- Button label in main activity [CHAR LIMIT=10]-->
+    <string name="button_main">Kirim</string>
+
+    <!-- Hint for message edit text in main activity [CHAR LIMIT=30]-->
+    <string name="editText_main">Hayu Chat Dia!</string>
+
+    <!-- Button label in second activity [CHAR LIMIT=10]-->
+    <string name="button_second">Balaskan</string>
+
+    <!-- Hint for reply edit text in second activity [CHAR LIMIT=30]-->
+    <string name="editText_second">Balas Jangan?</string>
+
+    <!-- Reply header text in main activity [CHAR LIMIT=30]-->
+    <string name="text_header_reply">pembalasan dikirim</string>
+
+</resources>
